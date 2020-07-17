@@ -1,10 +1,14 @@
-## **Dynamic Speed Limit System Project**
+## Dynamic Speed Limit System Project
 
 <a href="https://ibb.co/z5jF1cZ"><img src="https://i.ibb.co/SxWc2TB/voltage-and-current-pwm-cah-2.jpg" alt="voltage-and-current-pwm-cah-2" border="0"></a>
 
-The objective was to create a speed limit system based on surrounding weather condition. 
+The objective was to create a speed limit system based on surrounding weather conditions. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The system can sense rain intensity and fog visibility. Values obtained are used as calculation inputs. 
+
+v = (-2 + √(4+2* s / 9.8 * f ) ) ( 9.8 * f ) 
+
+v is recommended vehicle speed, s is driver visibility, and f is road surface friction. 
 
 ### Markdown
 
