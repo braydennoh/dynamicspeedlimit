@@ -1,8 +1,7 @@
 # Dynamic Speed Limit System Project
 ### Brayden Noh, Ben Davis, John Stanwick
 
-
-<a href="https://ibb.co/z5jF1cZ"><img src="https://i.ibb.co/SxWc2TB/voltage-and-current-pwm-cah-2.jpg" alt="voltage-and-current-pwm-cah-2" border="0"></a>
+![voltage and current pwm cah-2](https://user-images.githubusercontent.com/67966231/87812799-5e063900-c826-11ea-81d8-7fae5194df47.jpg)
 
 The objective was to create a speed limit system based on surrounding weather conditions. 
 
