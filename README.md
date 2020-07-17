@@ -6,7 +6,7 @@ The objective was to create a speed limit system based on surrounding weather co
 
 The system can sense rain intensity and fog visibility. Values obtained are used as calculation inputs. 
 
-v = (-2 + √(4+2* s / 9.8 * f ) ) ( 9.8 * f ) 
+v = [-2 + √(4+2* s / 9.8 * f)] (9.8 * f) 
 
 v is recommended vehicle speed, s is driver visibility, and f is road surface friction. 
 
