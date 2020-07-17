@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Dynamic Speed Limit System Project
 
 <a href="https://ibb.co/z5jF1cZ"><img src="https://i.ibb.co/SxWc2TB/voltage-and-current-pwm-cah-2.jpg" alt="voltage-and-current-pwm-cah-2" border="0"></a>
 
-You can use the [editor on GitHub](https://github.com/braydennoh/dynamicspeedlimit/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The objective was to create a speed limit system based on surrounding weather condition. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
