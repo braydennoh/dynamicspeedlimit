@@ -16,14 +16,16 @@ In the equation, v is recommended vehicle speed, s is driver visibility, and f i
 
 Fog affects the vehicle stopping distance. With images, there are several differences between a picture with and without fogs. Contrast, saturation, and brightness are distinct, however, not correlating. For an accurate algorithm, a dark channel feature was used, which uses non-sky dark pixels on an image, usually found in borderlines and shadows.
 
-<a href="https://ibb.co/HtHRByb"><img src="https://i.ibb.co/c6rRk9Z/Capture.png" alt="Capture" border="0"></a>
+J dark (x) = 〖min┬(y∈Ω(x) ) (〗⁡min┬cÒ{r,g,b} ⁡〖J^c 〗  (y))	
 
 Below, the figure shows the distance estimation with the dark channel feature. 
 
 <a href="https://ibb.co/55J2103"><img src="https://i.ibb.co/ZhbNfjr/Capture.png" alt="Capture" border="0"></a>
-# Header 1
-## Header 2
-### Header 3
+
+# Road Surface Friction
+
+There are two main factors determining the road friction: rain and temperature. A rain gauage was used to determine the rain intensity and a temperature sensor for the other factor. We needed a method for combining these two factors. Hartman Model was used as our solution. This model  predicts road friction by having a example dataset. For example, if I know the friction value during rain rate of 0.15 mm.h and 30
+
 
 - Bulleted
 - List
