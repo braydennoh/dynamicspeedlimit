@@ -1,6 +1,6 @@
 # Dynamic Speed Limit System Project
-
 ### Brayden Noh, Ben Davis, John Stanwick
+
 
 <a href="https://ibb.co/z5jF1cZ"><img src="https://i.ibb.co/SxWc2TB/voltage-and-current-pwm-cah-2.jpg" alt="voltage-and-current-pwm-cah-2" border="0"></a>
 
@@ -10,14 +10,17 @@ The system can sense rain intensity and fog visibility. Values obtained are used
 
 v = [-2 + √(4+2* s / 9.8 * f )] * (9.8 * f ) 
 
-v is recommended vehicle speed, s is driver visibility, and f is road surface friction. 
+In the equation, v is recommended vehicle speed, s is driver visibility, and f is road surface friction. The equation has been previously established by finding driver reaction and available braking distance and time. 
 
-# Markdown
+# Visibility Distance
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Fog affects the vehicle stopping distance. With images, there are several differences between a picture with and without fogs. Contrast, saturation, and brightness are distinct, however, not correlating. For an accurate algorithm, a dark channel feature was used, which uses non-sky dark pixels on an image, usually found in borderlines and shadows.
 
-Syntax highlighted code block
+<a href="https://ibb.co/HtHRByb"><img src="https://i.ibb.co/c6rRk9Z/Capture.png" alt="Capture" border="0"></a>
 
+Below, the figure shows the distance estimation with the dark channel feature. 
+
+<a href="https://ibb.co/55J2103"><img src="https://i.ibb.co/ZhbNfjr/Capture.png" alt="Capture" border="0"></a>
 # Header 1
 ## Header 2
 ### Header 3
