@@ -20,7 +20,7 @@ J dark (x) = 〖min┬(y∈Ω(x) ) (〗⁡min┬cÒ{r,g,b} ⁡〖J^c 〗  (y))
 
 Below, the figure shows the distance estimation with the dark channel feature. 
 
-<a href="https://ibb.co/55J2103"><img src="https://i.ibb.co/ZhbNfjr/Capture.png" alt="Capture" border="0"></a>
+<img width="984" alt="Capture" src="https://user-images.githubusercontent.com/67966231/87812593-0f589f00-c826-11ea-820c-242922b97fb6.PNG">
 
 # Road Surface Friction
 
