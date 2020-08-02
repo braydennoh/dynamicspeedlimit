@@ -33,5 +33,4 @@ The system was tested in real-world conditions with fog and rain settings.
 
 ![multie images power  Autosaved](https://user-images.githubusercontent.com/67966231/87813335-52674200-c827-11ea-8e3b-c728d13ce22d.png)
 
-google-site-verification: google57251287d8c3569f.html
 
